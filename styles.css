@@ -5,8 +5,6 @@
 }
 
 body {
-    min-width: 345px;
-    max-width: 1440px;
     background-color: hsl(217, 54%, 11%);
     font-family: 'Outfit', sans-serif;;
 }
