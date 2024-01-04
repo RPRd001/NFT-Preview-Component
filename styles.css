@@ -13,11 +13,10 @@ body {
 
 #main {
     height: 100vh;
-    min-width: 375px;
-    max-width: 1440px;
     min-height: 100vh;
     display: grid;
     place-items: center;
+    padding: 20px;
 }
 
 #card-component {
